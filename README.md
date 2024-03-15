@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emmanuel Cazares
 - 👀 I’m interested in programming, learn, videogames and cats.
-- 🌱 I’m currently learning Spring Boot 3 and Java
+- 🌱 I’m currently learning all
 -  I have knowledge in Javascript, react, html, css, firebase, mysql and other things 
 - 📫 How to reach me cazareslopezemmanuel@gmail.com
 
