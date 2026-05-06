@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Emmanuel Cazares
-- 👀 I’m interested in programming, learn, videogames and cats.
-- 🌱 I’m currently learning all
--  I have knowledge in Javascript, react, html, css, firebase, mysql and other things 
-- 📫 How to reach me cazareslopezemmanuel@gmail.com
+-  Hi, I’m Emmanuel Cazares
+-  I’m interested in programming, learn, videogames and cats.
+-  I’m currently learning all
+-  I have knowledge in Javascript, Java, React, HTML, CSS, Firebase, MySql and more
+-  How to reach me cazareslopezemmanuel@gmail.com
 
 <!---
 Emmanuelcazlo/Emmanuelcazlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
